@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-silencio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Deseo en silencio](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-silencio/) |
+| **Get License** | [Get a Licensing Quote for Deseo en silencio](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-silencio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Deseo en silencio, te llamo sin voz
+> Tu piel es un mapa, yo soy el explorador
+> La noche nos envuelve, no pidas perdón
+> Bailamos al borde de la tentación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
