@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo en silencio
+
+This log tracks the cryptographic history and versioning for the song **Deseo en silencio** (deseo-en-silencio).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T09:32:02.435726 | `v1` | `7b080cc773cdb3bf4d2c313f7ce8eae0c98be2896c8533f4502ab4ffee1c5ec4` | `215c967907e534219a9efee844d7ea837c2cbaae295a1b8e79372a5b19be5717` | `2026-06-20_deseo-en-silencio-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
